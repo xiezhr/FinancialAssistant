@@ -1,0 +1,8 @@
+[
+    {
+        "prodname": "",
+        "netprice": "",
+        "updatedate": "",
+        "oldnetprice": ""
+    }
+]
