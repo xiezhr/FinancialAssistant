@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" width="200px" src="imgs/logo.png">
+	<img alt="logo" width="200px" src="imgs/assets/logo.png">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;"> FinancialAssistant</h1>
 <h4 align="center">财务辅助系统</h4>
@@ -42,31 +42,31 @@
 
 ### 🍊项目结构
 
-![项目基础机构](http://blog.xiezhrspace.cn/blog-img/image-20241010211541396.png)
+![项目基础结构](imgs/assets/item_structure.png)
 
-![项目文件](http://blog.xiezhrspace.cn/blog-img/image-20241010211649907.png)
+![项目文件](imgs/assets/item_content.png)
 
 ### 🥪功能需求
 
 一个很简单的功能，通过名字，将表一和表二中相同名字的金额合计
 
-![数据整合](http://blog.xiezhrspace.cn/blog-img/image-20240816233123797.png)
+![数据整合](imgs/assets/item_function.png)
 
 
 
 ### 🍠 项目截图
 
-![界面布局1](http://blog.xiezhrspace.cn/blog-img/image-20240816235156842.png)
+![界面布局1](imgs/assets/view-001.png)
 
-![界面布局2](http://blog.xiezhrspace.cn/blog-img/image-20240816235256202.png)
+![界面布局2](imgs/assets/view-002.png)
 
-![界面布局3](http://blog.xiezhrspace.cn/blog-img/image-20240816235334465.png)
+![界面布局3](imgs/assets/view-003.png)
 
 
 
 ### 🍋实操效果
 
-![财务辅助系统](http://blog.xiezhrspace.cn/blog-img/财务辅助系统.gif)
+![财务辅助系统](imgs/assets/financialassistant.gif)
 
 
 
